@@ -9,7 +9,7 @@ if [ ! -n "$sharePath" ]
 		echo "share path : $sharePath "
 fi
 
-yum install samba
+yum install samba -y
 cp -pf /etc/samba/smb.conf /etc/samba/smb.conf.bak
 cat /dev/null > /etc/samba/smb.conf
 
