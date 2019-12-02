@@ -5,4 +5,6 @@ git clone https://github.com/wentome/samba.git
 ## 运行 
 sh samba/samba.sh /sharePath
 ## 访问
-\\\IP
+### window 搜索框 \\\IP
+## 添加网络驱动器
+
