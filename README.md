@@ -6,5 +6,6 @@ git clone https://github.com/wentome/samba.git
 sh samba/samba.sh /sharePath
 ## 访问
 ### window 搜索框 \\\IP
+### Mac commd + f   输入地址 端口445 
 ## 添加网络驱动器
 
