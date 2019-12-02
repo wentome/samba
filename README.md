@@ -5,4 +5,4 @@ git clone https://github.com/wentome/samba.git
 ## 运行 
 sh samba/samba.sh /sharePath
 ## 访问
-\\IP
+\\\IP
